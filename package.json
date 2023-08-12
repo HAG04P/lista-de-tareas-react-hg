@@ -1,6 +1,6 @@
 {
-  "homepage":"https://HAG04P.github.io/lista-de-tareas-react-hg"
   "name": "lista-de-tareas-react",
+  "homepage":"https://HAG04P.github.io/lista-de-tareas-react-hg",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
